@@ -10,5 +10,5 @@
 .one, 
 .two {
     font-size: 28px;
-    font-family: "Times New Roman";
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
