@@ -11,3 +11,9 @@ p {
     background-color: green;
     font-family: 'Courier New', Courier;
 }
+
+button {
+    background-color: orange;
+    border-color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
