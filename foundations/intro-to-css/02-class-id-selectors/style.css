@@ -6,3 +6,9 @@
 .class#cooler {
     font-size: 24px;
 }
+
+#two {
+    background-color: rgb(110, 224, 110);
+    font-size: 24px;
+    font-weight: bold;
+}
