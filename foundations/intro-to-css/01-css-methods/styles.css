@@ -5,15 +5,3 @@ div {
     font-size: 25px;
     font-weight: bold;
 }
-
-p {
-    color: white;
-    background-color: green;
-    font-family: 'Courier New', Courier;
-}
-
-button {
-    background-color: orange;
-    border-color: white;
-    font-family: 'Times New Roman', Times, serif;
-}
