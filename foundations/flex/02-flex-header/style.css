@@ -29,3 +29,7 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
 }
+
+.right-links ul {
+  padding-right: 10px;
+}
