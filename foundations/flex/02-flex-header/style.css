@@ -6,20 +6,25 @@
 }
 
 .logo {
+  display: flex;
   font-size: 48px;
   font-weight: 900;
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 10px;
+  align-items: center;
+  justify-content: center;
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
-  padding-left: 4px;
+  padding-left: 6px;
   padding-top: 20px;
   padding-bottom: 20px;
   display: flex;
+  gap: 20px;
 }
 
 a {
@@ -31,10 +36,5 @@ a {
 }
 
 .right-links ul {
-  padding-right: 4px;
-}
-
-.left-links li,
-.right-links li {
-  margin: 8px;
+  padding-right: 6px;
 }
