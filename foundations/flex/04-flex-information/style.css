@@ -29,11 +29,14 @@ img {
 ul  {
   display: flex;
   list-style: none;
-  gap: 52px;
-  margin-top: 32px;
+  margin: 0;
+  padding:0;
+  justify-content: space-evenly;
+  margin-top: 52px;
 }
 
 ul li {
-  width: 200;
+  width: 200px;
   text-align: center;
+  gap:32px;
 }
