@@ -31,13 +31,13 @@ ul  {
   list-style: none;
   margin: 0;
   padding:0;
-  justify-content: space-evenly;
+  justify-content: center;
   margin-top: 32px;
   flex-wrap: wrap;
+  gap: 52px;
 }
 
 ul li {
   width: 200px;
   text-align: center;
-  gap:52px;
 }
