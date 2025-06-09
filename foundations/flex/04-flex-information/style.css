@@ -25,3 +25,10 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+ul  {
+  display: flex;
+  list-style: none;
+  gap: 52px;
+  margin-top: 32px;
+}
