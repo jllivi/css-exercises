@@ -32,3 +32,8 @@ ul  {
   gap: 52px;
   margin-top: 32px;
 }
+
+ul li {
+  width: 200;
+  text-align: center;
+}
