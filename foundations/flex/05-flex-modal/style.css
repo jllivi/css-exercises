@@ -89,5 +89,6 @@ button.cancel {
 }
 
 .text {
-  margin-bottom: 15px;;
+  font-size: 15px;
+  margin: 0px 15px 15px 0px;
 }
