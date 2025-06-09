@@ -71,4 +71,11 @@ button.cancel {
 .heading {
   display: flex;
   justify-content: space-around;
+  margin-top: 15px;
+}
+
+.header {
+  margin-right: 100px;
+  font-weight: bold;
+  font-size: 18px;
 }
