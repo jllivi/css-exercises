@@ -28,9 +28,9 @@ body {
 
 .sidebar {
   width: 300px;
+  flex-shrink: 0;
   background: royalblue;
   box-sizing: border-box;
-  flex-shrink: 0;
 }
 
 .card {
@@ -60,13 +60,16 @@ a {
 .cards-container {
   display: flex;
   flex-wrap: wrap;
+  padding: 48px;
+  padding-bottom:23px;
 }
 
 .cards-container .card{
   flex-wrap: wrap;
-  height: auto;
-  width: 270px;
-  padding: 48px;
-  margin: 20px;
+  box-sizing: border-box;
+  width: 325px;
+  padding: 15px;
+  margin-right: 30px;
+  margin-bottom: 25px;
 }
 
