@@ -25,11 +25,12 @@ input {
   width: 400px;
 }
 
-.header {
+.header,
+.footer {
   display: flex;
 }
 
-.header ul {
+ul {
   display: flex;
   list-style: none;
   padding: 0;
@@ -43,6 +44,11 @@ input {
 
 .header .left-links {
   margin-left: 15px;
+}
+
+a:link {
+  text-decoration: none;
+  color: darkgray;
 }
 
 
