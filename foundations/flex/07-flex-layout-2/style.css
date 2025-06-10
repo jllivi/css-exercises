@@ -44,6 +44,11 @@ body {
   padding-bottom: 16px;
 }
 
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .mid-section {
   display: flex;
 }
